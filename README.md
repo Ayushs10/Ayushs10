@@ -30,7 +30,7 @@ I am a Business Intelligence Engineer skilled in leveraging Python, SQL, and Mac
 
 ## 📫 How to reach me:
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ayushshrivastava10/)
-- **Email:** [ayush.shri1031@gmail.com](mailto:ayushshri1099@gmail.com)
+- **Email:** [ayushshri1099@gmail.com](mailto:ayushshri1099@gmail.com)
 
 
 

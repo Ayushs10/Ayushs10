@@ -28,9 +28,7 @@ I am a Business Intelligence Engineer skilled in leveraging Python, SQL, and Mac
 - **Master of Business Analytics**, University of Dayton, OH (2023-2025)
 - **Bachelor of Engineering**, Ramdeobaba College of Engineering and Management, India (2017-2021)
 
-## 📫 How to reach me:
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ayushshrivastava10/)
-- **Email:** [ayushshri1099@gmail.com](mailto:ayushshri1099@gmail.com)
+
 
 
 

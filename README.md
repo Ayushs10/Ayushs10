@@ -2,8 +2,6 @@
 
 <img src="https://media.licdn.com/dms/image/v2/C4E12AQG6VucJydaLOA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1637141058478?e=2147483647&v=beta&t=HBeBMsTsoMXsPJhe_yCgfqseG8JhqzX2rYFTWJBxtVs" alt="Ayush Shrivastava Banner" width="400" height="300">
 
-# 👋 Hi, I'm a Data Analyst & Data Engineer
-
 ## 👨‍💻 About Me
 I am a Data Analyst and Data Engineer with strong expertise in leveraging Python, SQL, and Machine Learning to solve complex, real-world problems across healthcare, logistics, and fintech domains.  
 

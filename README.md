@@ -2,16 +2,46 @@
 
 <img src="https://media.licdn.com/dms/image/v2/C4E12AQG6VucJydaLOA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1637141058478?e=2147483647&v=beta&t=HBeBMsTsoMXsPJhe_yCgfqseG8JhqzX2rYFTWJBxtVs" alt="Ayush Shrivastava Banner" width="400" height="300">
 
-## 👋 Introduction 
-I am a Business Intelligence Engineer skilled in leveraging Python, SQL, and Machine Learning to solve complex problems in the healthcare, insurance, and fintech sectors. I extensively use AWS cloud services and Jupyter Notebooks for my data science projects.
+# 👋 Hi, I'm a Data Analyst & Data Engineer
+
+## 👨‍💻 About Me
+I am a Data Analyst and Data Engineer with strong expertise in leveraging Python, SQL, and Machine Learning to solve complex, real-world problems across healthcare, logistics, and fintech domains.  
+
+I specialize in building scalable data pipelines, optimizing data workflows, and transforming raw data into actionable insights that drive business decisions.  
+
+With hands-on experience in AWS cloud services and Jupyter Notebooks, I develop end-to-end data solutions—from data ingestion and modeling to advanced analytics and visualization. My work bridges the gap between data engineering and business intelligence, with a strong focus on supply chain optimization and operational analytics.
+
+---
 
 ## 🔧 Technologies & Tools
-- **Programming Languages:** Python, R, SAS, MATLAB, JavaScript
-- **Data Analysis Tools:** Power BI, Tableau, Looker
-- **Database Management:** MySQL, PostgreSQL, Oracle, MongoDB (NoSQL)
-- **Cloud Platforms:** AWS (EC2, S3, RDS), Azure, Snowflake
-- **Data Science & Analytics:** Data Modeling, Predictive Analytics, Ad Hoc Analysis
-- **Project Management:** Jira, Agile Methodologies
+
+### 💻 Programming Languages
+- Python | R | SAS | MATLAB | JavaScript  
+
+### 📊 Data Analysis & Visualization
+- Power BI | Tableau | Looker  
+
+### 🗄️ Database Management
+- MySQL | PostgreSQL | Oracle | MongoDB (NoSQL)  
+
+### ☁️ Cloud & Data Engineering
+- AWS (EC2, S3, RDS) | Azure | Snowflake  
+
+### 📈 Data Science & Analytics
+- Data Modeling  
+- Predictive Analytics  
+- Machine Learning  
+- Ad Hoc Analysis  
+
+### 🚚 Domain Expertise
+- Supply Chain Analytics  
+- Healthcare Data Analytics  
+- Fintech Data Solutions  
+
+### 📌 Project Management
+- Jira  
+- Agile Methodologies  
+
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://miro.medium.com/v2/resize:fit:1200/1*RzxZF0mmXAsMLrIzAWYDSg.png" alt="Python Logo" width="90" height="40">
